@@ -1,6 +1,5 @@
 # Flash-Chat
-
-Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. Firebase provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment.
+Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. Firebase Firestore was used as the backend database to store and retrieve our messages from the cloud.
 
 # Current Features
 
