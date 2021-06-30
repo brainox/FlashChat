@@ -23,7 +23,6 @@ $ git clone https://github.com/brainox/Foodly_App.git
 Install the application dependencies and devdependencies.
 
 ```sh
-$ cd Foodly_App
 $ cd FlashChat
 $ pod install
 ```
