@@ -6,7 +6,7 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
   - Authentication (Login and Registration)
   - Posting of messages to the firebase
   - Retrieving and reading messages posted to the firebase
-  - 
+  
 ### Technologies Used
 
 * [Swift](https://developer.apple.com/swift/) - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS
